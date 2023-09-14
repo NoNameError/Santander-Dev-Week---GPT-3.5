@@ -6,3 +6,5 @@ GPT 3.5.
 
 # para utilizar a API do GPT, use "!pip install openai"
 #posteriormente, após adquirir sua key na openai key, use: "openai_api_key = 'SuAk3y'"
+
+google Colab (onde foi criado): https://colab.research.google.com/drive/1X4Q66v3nTJHbEwWF8OEds0BUrdb5OuXb#scrollTo=yBxeiZHfJyaq
